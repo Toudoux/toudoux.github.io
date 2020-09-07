@@ -1,0 +1,11 @@
+ Navbar :
+ 
+ - glow up - done
+ 
+ - font face 
+ 
+ - width and height problem - done
+ 
+ - fixed navbar - done
+ 
+ - image transition

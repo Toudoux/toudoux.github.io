@@ -1,0 +1,116 @@
+
+body.bodypropos {
+ background-color: rgb(249,164,17);
+}
+
+div {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+    width: 100%;
+    padding: 1% 0% 1% 0%;
+    margin: 0% 0% 0% 0%;
+       background-color: #262626;
+    right: 0px;
+    opacity: 75%;
+}
+
+html{
+scroll-behavior: smooth;
+}
+
+a.bg {
+ text-decoration: none;
+    color: white;
+}
+
+div.background {
+ background-color: black;
+    opacity: 0.8;
+    border: black 1px solid;
+    position: relative;
+border-radius: 2%;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    padding: 2% 5% 0% 5%;
+}
+
+h1.proposh1 {
+ text-align: center;
+    font-size: 200%;
+}
+
+p.proposp {
+ text-align: center;
+    font-size: 100%;
+    color: white;
+}
+
+hr {
+ background-color: gray;
+    height: 1px;
+    margin: 0% 40% 0% 40%;
+    border: none;
+}
+
+h1.title {
+ text-align: center;
+    font-size: 400%;
+    margin-top:3%;
+    color:rgb(249,164,17);
+}
+
+h2 {
+ text-align: center; 
+        color: #b3b3b3;
+    text-align: center;
+    font-family: royal;
+  transition: all 0.2s ease-in-out;
+    font-size: 150%;
+}
+
+p.acceuiltxte {
+    text-align: center;
+    color:rgb(249,164,17);
+}
+
+img.acceuilimg {
+    text-align: center;
+    margin-left: 45% ;
+}
+
+h5.proposh5 {
+ color: black;
+    text-align: center;
+    font-size: 200%;
+}
+
+h6.proposh6 {
+ color: black;  
+    text-align: center;
+}
+
+h1 {
+ color: white;   
+}
+
+@font-face {
+  font-family: royal;
+  src: url(Quicksand-VariableFont_wght.tff);
+}
+
+h2:hover {
+    color: rgb(249,164,17);
+}
+
+.gl {
+ width: 2%;
+    height: 2%;
+     transition: all 0.2s ease-in-out;
+}
+
+.glow {
+ padding: 0% 5% 0% 5%;   
+}
